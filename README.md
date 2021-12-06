@@ -1,9 +1,7 @@
 # Interest 
 
-● Finance, Business analysis
+● Data Science, Business analysis, Finance, Game etc..
 
-● Python, R, SQL  
+● Python, R, SQL, Tableau
 
 ● Machine Learning, Deep Learning  
-
-● Data Science  
