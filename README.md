@@ -18,5 +18,5 @@
 
 - 정처기 -> 운영체제, 데이터베이스, 네트워크 기본 지식
 
-- (+ Hive, Elastic Stack)
+- (+ Hive, Elastic Stack, Kubernetes)
 
